@@ -94,7 +94,7 @@
       </score-part>
     <score-part id="P4">
       <part-name>Baritone</part-name>
-      <part-abbreviation>B.</part-abbreviation>
+      <part-abbreviation>Bar.</part-abbreviation>
       <score-instrument id="P4-I1">
         <instrument-name>Piano</instrument-name>
         </score-instrument>
