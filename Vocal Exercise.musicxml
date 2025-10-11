@@ -49,8 +49,8 @@
     </credit>
   <part-list>
     <score-part id="P1">
-      <part-name>Trumpet.</part-name>
-      <part-abbreviation>Tpt.</part-abbreviation>
+      <part-name>Tromba.</part-name>
+      <part-abbreviation>Tr.</part-abbreviation>
       <score-instrument id="P1-I1">
         <instrument-name>Piano</instrument-name>
         </score-instrument>
