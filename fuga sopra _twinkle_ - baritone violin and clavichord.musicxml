@@ -6,7 +6,6 @@
     </work>
   <identification>
     <creator type="composer">Michael Chu</creator>
-    <creator type="lyricist">Michael Chu</creator>
     <encoding>
       <software>MuseScore 3.6.2</software>
       <encoding-date>2025-10-20</encoding-date>
@@ -47,9 +46,7 @@
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.14" default-y="1411.05" justify="right" valign="bottom">Michael Chu
-</credit-words>
-    <credit-words>January 2025</credit-words>
+    <credit-words default-x="1148.14" default-y="1411.05" justify="right" valign="bottom">Michael Chu</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
