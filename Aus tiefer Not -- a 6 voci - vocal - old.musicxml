@@ -139,7 +139,7 @@
         <system-layout>
           <system-margins>
             <left-margin>160.97</left-margin>
-            <right-margin>-3412.63</right-margin>
+            <right-margin>-3426.34</right-margin>
             </system-margins>
           <top-system-distance>70.00</top-system-distance>
           </system-layout>
@@ -185,8 +185,8 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="5" width="122.69">
-      <note default-x="21.92" default-y="0.00">
+    <measure number="5" width="127.39">
+      <note default-x="23.47" default-y="0.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -277,7 +277,7 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="8" width="123.53">
+    <measure number="8" width="130.31">
       <note default-x="21.86" default-y="-10.00">
         <pitch>
           <step>D</step>
@@ -292,7 +292,7 @@
           <text>cry</text>
           </lyric>
         </note>
-      <note default-x="81.82" default-y="-5.00">
+      <note default-x="87.90" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -307,8 +307,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="9" width="127.17">
-      <note default-x="22.06" default-y="0.00">
+    <measure number="9" width="128.58">
+      <note default-x="23.47" default-y="0.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -318,9 +318,9 @@
         <voice>1</voice>
         <type>whole</type>
         <accidental>sharp</accidental>
-        <lyric number="1" default-x="9.68" default-y="-48.31" relative-y="-30.00">
+        <lyric number="1" default-x="9.48" default-y="-48.31" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee,</text>
+          <text>Thee,</text>
           </lyric>
         </note>
       </measure>
@@ -352,7 +352,7 @@
         <stem>down</stem>
         <lyric number="1" default-x="6.50" default-y="-48.31" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thine</text>
+          <text>Thy</text>
           </lyric>
         </note>
       </measure>
@@ -428,8 +428,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="13" width="121.22">
-      <note default-x="20.45" default-y="-20.00">
+    <measure number="13" width="127.39">
+      <note default-x="23.47" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -443,7 +443,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="14" width="128.51">
+    <measure number="14" width="114.00">
       <note default-x="20.96" default-y="-15.00">
         <pitch>
           <step>C</step>
@@ -460,7 +460,7 @@
           <text>let</text>
           </lyric>
         </note>
-      <note default-x="73.84" default-y="-10.00">
+      <note default-x="66.58" default-y="-10.00">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -473,7 +473,7 @@
         <stem>down</stem>
         <lyric number="1" default-x="6.50" default-y="-48.31" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thine</text>
+          <text>Thy</text>
           </lyric>
         </note>
       </measure>
@@ -509,7 +509,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="16" width="165.87">
+    <measure number="16" width="167.32">
       <note default-x="32.35" default-y="5.00">
         <pitch>
           <step>G</step>
@@ -525,7 +525,7 @@
           <extend/>
           </lyric>
         </note>
-      <note default-x="71.79" default-y="0.00">
+      <note default-x="73.00" default-y="0.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -537,7 +537,7 @@
         <accidental>sharp</accidental>
         <stem>down</stem>
         </note>
-      <note default-x="102.55" default-y="-5.00">
+      <note default-x="103.84" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -737,8 +737,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="22" width="182.90">
-      <note default-x="22.88" default-y="-25.00">
+    <measure number="22" width="184.45">
+      <note default-x="24.43" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -752,7 +752,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="62.44" default-y="-30.00">
+      <note default-x="63.99" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -767,7 +767,7 @@
           <text>out</text>
           </lyric>
         </note>
-      <note default-x="101.99" default-y="-35.00">
+      <note default-x="103.54" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -783,7 +783,7 @@
           <text>of</text>
           </lyric>
         </note>
-      <note default-x="141.54" default-y="-15.00">
+      <note default-x="143.10" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1014,8 +1014,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="28" width="88.87">
-      <note default-x="20.45" default-y="-20.00">
+    <measure number="28" width="95.04">
+      <note default-x="23.47" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1023,9 +1023,9 @@
         <duration>8</duration>
         <voice>1</voice>
         <type>whole</type>
-        <lyric number="1" default-x="9.68" default-y="-48.31" relative-y="-30.00">
+        <lyric number="1" default-x="9.48" default-y="-48.31" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee!</text>
+          <text>Thee!</text>
           </lyric>
         </note>
       <barline location="right">
@@ -1169,8 +1169,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="5" width="122.69">
-      <note default-x="22.88" default-y="-135.80">
+    <measure number="5" width="127.39">
+      <note default-x="24.43" default-y="-135.80">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1179,12 +1179,12 @@
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
-        <lyric number="1" default-x="8.72" default-y="-53.20" relative-y="-30.00">
+        <lyric number="1" default-x="8.51" default-y="-53.20" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee,</text>
+          <text>Thee,</text>
           </lyric>
         </note>
-      <note default-x="71.89" default-y="-140.80">
+      <note default-x="75.01" default-y="-140.80">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1291,7 +1291,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="8" width="123.53">
+    <measure number="8" width="130.31">
       <note default-x="21.86" default-y="-135.80">
         <pitch>
           <step>B</step>
@@ -1303,11 +1303,11 @@
         <stem>down</stem>
         <lyric number="1" default-y="-53.20" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee,</text>
+          <text>Thee,</text>
           <extend/>
           </lyric>
         </note>
-      <note default-x="56.87" default-y="-140.80">
+      <note default-x="62.51" default-y="-140.80">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1317,7 +1317,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="81.82" default-y="-145.80">
+      <note default-x="87.90" default-y="-145.80">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1332,8 +1332,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="9" width="127.17">
-      <note default-x="23.02" default-y="-150.80">
+    <measure number="9" width="128.58">
+      <note default-x="24.43" default-y="-150.80">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1349,7 +1349,7 @@
           <text>Lord,</text>
           </lyric>
         </note>
-      <note default-x="68.51" default-y="-145.80">
+      <note default-x="69.92" default-y="-145.80">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1364,7 +1364,7 @@
           <extend/>
           </lyric>
         </note>
-      <note default-x="96.94" default-y="-140.80">
+      <note default-x="98.35" default-y="-140.80">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1551,8 +1551,8 @@
         <beam number="1">end</beam>
         </note>
       </measure>
-    <measure number="13" width="121.22">
-      <note default-x="20.45" default-y="-160.80">
+    <measure number="13" width="127.39">
+      <note default-x="23.47" default-y="-160.80">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -1562,13 +1562,13 @@
         <voice>1</voice>
         <type>whole</type>
         <accidental>sharp</accidental>
-        <lyric number="1" default-x="7.75" default-y="-53.20" relative-y="-30.00">
+        <lyric number="1" default-x="7.55" default-y="-53.20" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee,</text>
+          <text>Thee,</text>
           </lyric>
         </note>
       </measure>
-    <measure number="14" width="128.51">
+    <measure number="14" width="114.00">
       <note default-x="20.96" default-y="-155.80">
         <pitch>
           <step>E</step>
@@ -1583,7 +1583,7 @@
           <text>let</text>
           </lyric>
         </note>
-      <note default-x="73.84" default-y="-140.80">
+      <note default-x="66.58" default-y="-140.80">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1594,7 +1594,7 @@
         <stem>up</stem>
         <lyric number="1" default-x="6.50" default-y="-53.20" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thine</text>
+          <text>Thy</text>
           </lyric>
         </note>
       </measure>
@@ -1630,7 +1630,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="16" width="165.87">
+    <measure number="16" width="167.32">
       <note default-x="32.35" default-y="-135.80">
         <pitch>
           <step>B</step>
@@ -1645,7 +1645,7 @@
           <text>ttend</text>
           </lyric>
         </note>
-      <note default-x="102.55" default-y="-130.80">
+      <note default-x="103.84" default-y="-130.80">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1662,7 +1662,7 @@
           <extend/>
           </lyric>
         </note>
-      <note default-x="133.31" default-y="-135.80">
+      <note default-x="134.68" default-y="-135.80">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1894,8 +1894,8 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="22" width="182.90">
-      <note default-x="21.92" default-y="-160.80">
+    <measure number="22" width="184.45">
+      <note default-x="23.47" default-y="-160.80">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -2084,8 +2084,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="28" width="88.87">
-      <note default-x="20.45" default-y="-150.80">
+    <measure number="28" width="95.04">
+      <note default-x="23.47" default-y="-150.80">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -2095,9 +2095,9 @@
         <voice>1</voice>
         <type>whole</type>
         <accidental>sharp</accidental>
-        <lyric number="1" default-x="7.75" default-y="-53.20" relative-y="-30.00">
+        <lyric number="1" default-x="7.55" default-y="-53.20" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee!</text>
+          <text>Thee!</text>
           </lyric>
         </note>
       <barline location="right">
@@ -2153,7 +2153,7 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="5" width="122.69">
+    <measure number="5" width="127.39">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -2174,14 +2174,14 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="8" width="123.53">
+    <measure number="8" width="130.31">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="9" width="127.17">
+    <measure number="9" width="128.58">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -2209,8 +2209,8 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="13" width="121.22">
-      <note default-x="20.45" default-y="-263.98">
+    <measure number="13" width="127.39">
+      <note default-x="23.47" default-y="-263.98">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -2226,7 +2226,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="14" width="128.51">
+    <measure number="14" width="114.00">
       <note default-x="20.96" default-y="-283.98">
         <pitch>
           <step>B</step>
@@ -2241,7 +2241,7 @@
           <text>of</text>
           </lyric>
         </note>
-      <note default-x="73.84" default-y="-263.98">
+      <note default-x="66.58" default-y="-263.98">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -2301,7 +2301,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="16" width="165.87">
+    <measure number="16" width="167.32">
       <note default-x="32.35" default-y="-273.98">
         <pitch>
           <step>D</step>
@@ -2316,7 +2316,7 @@
           <text>cry</text>
           </lyric>
         </note>
-      <note default-x="102.55" default-y="-268.98">
+      <note default-x="103.84" default-y="-268.98">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2343,9 +2343,9 @@
         <type>half</type>
         <accidental>sharp</accidental>
         <stem>up</stem>
-        <lyric number="1" default-x="8.72" default-y="-56.59" relative-y="-30.00">
+        <lyric number="1" default-x="8.51" default-y="-56.59" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee,</text>
+          <text>Thee,</text>
           </lyric>
         </note>
       <note default-x="82.04" default-y="-268.98">
@@ -2502,8 +2502,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="22" width="182.90">
-      <note default-x="21.92" default-y="-283.98">
+    <measure number="22" width="184.45">
+      <note default-x="23.47" default-y="-283.98">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2511,9 +2511,9 @@
         <duration>8</duration>
         <voice>1</voice>
         <type>whole</type>
-        <lyric number="1" default-x="7.75" default-y="-56.59" relative-y="-30.00">
+        <lyric number="1" default-x="7.55" default-y="-56.59" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee,</text>
+          <text>Thee,</text>
           </lyric>
         </note>
       </measure>
@@ -2678,8 +2678,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="28" width="88.87">
-      <note default-x="20.45" default-y="-273.98">
+    <measure number="28" width="95.04">
+      <note default-x="23.47" default-y="-273.98">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -2689,9 +2689,9 @@
         <voice>1</voice>
         <type>whole</type>
         <accidental>sharp</accidental>
-        <lyric number="1" default-x="7.75" default-y="-56.59" relative-y="-30.00">
+        <lyric number="1" default-x="7.55" default-y="-56.59" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee!</text>
+          <text>Thee!</text>
           </lyric>
         </note>
       <barline location="right">
@@ -2747,7 +2747,7 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="5" width="122.69">
+    <measure number="5" width="127.39">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -2768,15 +2768,15 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="8" width="123.53">
+    <measure number="8" width="130.31">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="9" width="127.17">
-      <note default-x="22.06" default-y="-361.13">
+    <measure number="9" width="128.58">
+      <note default-x="23.47" default-y="-361.13">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2891,8 +2891,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="13" width="121.22">
-      <note default-x="21.41" default-y="-361.13">
+    <measure number="13" width="127.39">
+      <note default-x="24.43" default-y="-361.13">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2901,12 +2901,12 @@
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
-        <lyric number="1" default-x="8.72" default-y="-42.97" relative-y="-30.00">
+        <lyric number="1" default-x="8.51" default-y="-42.97" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee,</text>
+          <text>Thee,</text>
           </lyric>
         </note>
-      <note default-x="70.42" default-y="-366.13">
+      <note default-x="75.01" default-y="-366.13">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2921,7 +2921,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="14" width="128.51">
+    <measure number="14" width="114.00">
       <note default-x="20.96" default-y="-371.13">
         <pitch>
           <step>G</step>
@@ -2936,7 +2936,7 @@
           <text>of</text>
           </lyric>
         </note>
-      <note default-x="73.84" default-y="-376.13">
+      <note default-x="66.58" default-y="-376.13">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -3013,7 +3013,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="16" width="165.87">
+    <measure number="16" width="167.32">
       <note default-x="32.35" default-y="-361.13">
         <pitch>
           <step>B</step>
@@ -3025,11 +3025,11 @@
         <stem>down</stem>
         <lyric number="1" default-y="-42.97" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee,</text>
+          <text>Thee,</text>
           <extend/>
           </lyric>
         </note>
-      <note default-x="71.79" default-y="-366.13">
+      <note default-x="73.00" default-y="-366.13">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -3039,7 +3039,7 @@
         <type>quarter</type>
         <stem>down</stem>
         </note>
-      <note default-x="102.55" default-y="-371.13">
+      <note default-x="103.84" default-y="-371.13">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -3172,8 +3172,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="22" width="182.90">
-      <note default-x="21.92" default-y="-376.13">
+    <measure number="22" width="184.45">
+      <note default-x="23.47" default-y="-376.13">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -3415,8 +3415,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="28" width="88.87">
-      <note default-x="20.45" default-y="-361.13">
+    <measure number="28" width="95.04">
+      <note default-x="23.47" default-y="-361.13">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -3424,9 +3424,9 @@
         <duration>8</duration>
         <voice>1</voice>
         <type>whole</type>
-        <lyric number="1" default-x="9.68" default-y="-42.97" relative-y="-30.00">
+        <lyric number="1" default-x="9.48" default-y="-42.97" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee!</text>
+          <text>Thee!</text>
           </lyric>
         </note>
       <barline location="right">
@@ -3482,7 +3482,7 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="5" width="122.69">
+    <measure number="5" width="127.39">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -3503,14 +3503,14 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="8" width="123.53">
+    <measure number="8" width="130.31">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="9" width="127.17">
+    <measure number="9" width="128.58">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -3538,14 +3538,14 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="13" width="121.22">
+    <measure number="13" width="127.39">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="14" width="128.51">
+    <measure number="14" width="114.00">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -3559,7 +3559,7 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="16" width="165.87">
+    <measure number="16" width="167.32">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -3601,8 +3601,8 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="22" width="182.90">
-      <note default-x="21.92" default-y="-487.44">
+    <measure number="22" width="184.45">
+      <note default-x="23.47" default-y="-487.44">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -3740,7 +3740,7 @@
           </notations>
         <lyric number="1" default-y="-41.48" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee!</text>
+          <text>Thee!</text>
           <extend/>
           </lyric>
         </note>
@@ -3763,8 +3763,8 @@
           </notations>
         </note>
       </measure>
-    <measure number="28" width="88.87">
-      <note default-x="20.45" default-y="-487.44">
+    <measure number="28" width="95.04">
+      <note default-x="23.47" default-y="-487.44">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -3831,7 +3831,7 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="5" width="122.69">
+    <measure number="5" width="127.39">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -3852,14 +3852,14 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="8" width="123.53">
+    <measure number="8" width="130.31">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="9" width="127.17">
+    <measure number="9" width="128.58">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -3887,14 +3887,14 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="13" width="121.22">
+    <measure number="13" width="127.39">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="14" width="128.51">
+    <measure number="14" width="114.00">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -3908,7 +3908,7 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="16" width="165.87">
+    <measure number="16" width="167.32">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -4038,8 +4038,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="22" width="182.90">
-      <note default-x="22.88" default-y="-612.65">
+    <measure number="22" width="184.45">
+      <note default-x="24.43" default-y="-612.65">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -4048,12 +4048,12 @@
         <voice>1</voice>
         <type>half</type>
         <stem>up</stem>
-        <lyric number="1" default-x="8.72" default-y="-57.66" relative-y="-30.00">
+        <lyric number="1" default-x="8.51" default-y="-57.66" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee,</text>
+          <text>Thee,</text>
           </lyric>
         </note>
-      <note default-x="101.99" default-y="-617.65">
+      <note default-x="103.54" default-y="-617.65">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4172,7 +4172,7 @@
         <stem>up</stem>
         <lyric number="1" default-y="-57.66" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee,</text>
+          <text>Thee,</text>
           <extend/>
           </lyric>
         </note>
@@ -4256,8 +4256,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="28" width="88.87">
-      <note default-x="20.45" default-y="-612.65">
+    <measure number="28" width="95.04">
+      <note default-x="23.47" default-y="-612.65">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -4265,9 +4265,9 @@
         <duration>8</duration>
         <voice>1</voice>
         <type>whole</type>
-        <lyric number="1" default-x="7.75" default-y="-57.66" relative-y="-30.00">
+        <lyric number="1" default-x="7.55" default-y="-57.66" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>thee!</text>
+          <text>Thee!</text>
           </lyric>
         </note>
       <barline location="right">
